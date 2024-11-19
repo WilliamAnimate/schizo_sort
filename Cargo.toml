@@ -1,0 +1,6 @@
+[package]
+name = "schizo_sort"
+version = "327.6.8"
+edition = "2021"
+
+[dependencies]
