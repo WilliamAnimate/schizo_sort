@@ -10,6 +10,10 @@ int entry()
 
 {
 
-exit(0);
+// insert algorithm
+
+
+
+  exit(0);
 }
 
